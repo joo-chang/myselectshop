@@ -45,7 +45,7 @@ public class ProductController {
         return productService.getAllProducts();
     }
 
-    @PostMapping("/prducts/{productId}/folder")
+    @PostMapping("/products/{productId}/folder")
     public void addFolder(
             @PathVariable Long productId,
             @RequestParam Long folderId,
