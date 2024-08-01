@@ -1,4 +1,4 @@
-package com.sparta.myselectshop;
+package com.sparta.myselectshop.test;
 
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.RepetitionInfo;

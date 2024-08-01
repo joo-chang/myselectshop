@@ -1,4 +1,4 @@
-package com.sparta.myselectshop;
+package com.sparta.myselectshop.test;
 
 import com.sparta.myselectshop.test.Calculator;
 import org.junit.jupiter.api.BeforeEach;
